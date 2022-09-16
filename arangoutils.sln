@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "arangoutils-lib", "arangoutils-lib\arangoutils-lib.pyproj", "{FB163C81-AE6E-4DC2-9651-15F68144DC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB163C81-AE6E-4DC2-9651-15F68144DC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB163C81-AE6E-4DC2-9651-15F68144DC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B35AA5A0-D236-4429-A72C-8FCB381A618A}
+	EndGlobalSection
+EndGlobal
